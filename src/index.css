@@ -56,3 +56,9 @@ button:focus {
 button:active {
   transform: scale(0.99);
 }
+
+.homeButtons, .awayButtons {
+  width: 50%;
+  display: flex;
+}
+
